@@ -1,0 +1,27 @@
+{
+  "name": "dio-desafil-jogo-da-memoria",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">\r     <img alt=\"HTML Web Developer\" src=\"https://lh3.googleusercontent.com/tKs8GF1WtVd9UfuEbm5Z1u0AeFTbuG4-z70h_oLfkAXrUJEsD70n7-Y95vyy16VRNMwHlg=s85\" width=\"120px\" />\r </h1>",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.26.13"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.13"
+  },
+  "scripts": {
+    "start": "browser-sync start --proxy localhost:8080 --serveStatic 'public' --files 'public'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljanotte/dio-desafil-jogo-da-memoria.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljanotte/dio-desafil-jogo-da-memoria/issues"
+  },
+  "homepage": "https://github.com/ljanotte/dio-desafil-jogo-da-memoria#readme"
+}
